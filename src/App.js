@@ -45,7 +45,7 @@ function App() {
 
   return (
     <Routes>
-      <Route path="/hotel" element={<Homepage />} />
+      <Route path="/" element={<Homepage />} />
     </Routes>
   );
 }
